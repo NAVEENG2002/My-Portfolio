@@ -1,0 +1,29 @@
+# --- Node.js & Express ---
+node_modules/
+.env
+npm-debug.log*
+
+# --- Logs & Runtime ---
+logs/
+*.log
+*.out
+*.pid
+*.seed
+
+# --- Optional OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+
+# --- Optional build folders (for Vite/React if added later) ---
+dist/
+build/
+
+# --- Optional uploads or cache ---
+.cache/
+uploads/
+temp/
+tmp/
